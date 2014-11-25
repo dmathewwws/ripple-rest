@@ -1,7 +1,7 @@
 {
   "config_version": "2.0.1",
   "debug": false,
-  "port": 8001,
+  "port": 5990,
   "host": "localhost",
   "ssl_enabled": false,
   "ssl": {
